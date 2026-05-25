@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm currently working on a teenage mental health app<br>I'm currently learning Kotlin and App Development<br>Fun Fact:  It's easier to git commit than to commit to  a relationship(>_<)
 
 
 ## 🌐 Socials:
